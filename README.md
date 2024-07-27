@@ -1,1 +1,1 @@
-# 同步docker hub到中国境内
+# 同步docker hub指定镜像到中国境内
