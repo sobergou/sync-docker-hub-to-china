@@ -1,2 +1,2 @@
-FROM discourse/base:2.0.20260617-0053
+FROM discourse/base:2.0.20260726-0220
 LABEL MAINTAINER=master@docker-hub-china.top BUILDTYPE=Aliyun
